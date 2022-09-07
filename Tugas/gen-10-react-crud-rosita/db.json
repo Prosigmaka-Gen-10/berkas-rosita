@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Zwetta Square",
+      "color": "Mocca, Latte, Black",
+      "size": "150 x 150 cm"
+    },
+    {
+      "id": 2,
+      "name": "Bergo Jersey",
+      "color": "Mocca, Black, Esspreso",
+      "size": "M, L, XL"
+    },
+    {
+      "id": 3,
+      "name": "Pashmina Inner",
+      "color": "Mocca, Black, Cream",
+      "size": "180 x 180 cm"
+    }
+  ]
+}
