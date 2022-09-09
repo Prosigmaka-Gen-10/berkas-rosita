@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "article_title": "Rosita Ditinggal Pas Sayang-sayangnya",
+      "article_content": "heheeeeeeeeeee hehe hehe",
+      "article_publish_date": "2022-09-08"
+    },
+    {
+      "id": 2,
+      "article_title": "Suara Rosita Mendunia",
+      "article_content": "lalalallaa yeyeyeyeyeye",
+      "article_publish_date": "2022-09-07"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category_name": "Kisah Asmara"
+    },
+    {
+      "id": 2,
+      "category_name": "Prestasi"
+    },
+    {
+      "id": 3,
+      "category_name": "Politik"
+    }
+  ]
+}
