@@ -1,5 +1,5 @@
 {
-  "name": "gen-10-react-crud-multi-page-rosita",
+  "name": "gen-10-react-redux-rosita",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "json-server": "^0.17.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.3.0"
+    "react-redux": "^8.0.4",
+    "redux": "^4.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
